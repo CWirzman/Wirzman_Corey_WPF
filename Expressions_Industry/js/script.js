@@ -7,4 +7,6 @@ var allNight = "How many shovels are assembled all night by a team(2) of operato
 var hours = 8;
 var shovelsHourly = 132
 var shovelsDamagedHourly = 7;
-console.log();
+
+var total = (132 - 7) * 8;
+console.log(total);
