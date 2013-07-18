@@ -3,9 +3,7 @@
 // Assignment: Expressions_Wacky
 
 var c = 2;
-c = 2 ++;
 
-var b = 5;
+c ++;
 
-newAmount = c + b;
-console.log();
+console.log(c);
