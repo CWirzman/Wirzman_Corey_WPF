@@ -4,9 +4,19 @@
 
 //A string to ask how many shovels are assembled all night
 var allNight = "How many shovels are assembled all night by a team(2) of operators?"
-var hours = 8;
-var shovelsHourly = 132
-var shovelsDamagedHourly = 7;
+
+explanation = "If there are 8 hours a day with 132 made an hour minus 7 scraped whats the total?";
+
+hours = 8;
+
+shovelsHourly = 132
+
+shovelsDamagedHourly = 7;
+
+var showTotal = "(132 -7) * 8 =";
 
 var total = (132 - 7) * 8;
-console.log(total);
+
+console.log(allNight);
+console.log(explanation);
+console.log(showTotal + " " + total);
