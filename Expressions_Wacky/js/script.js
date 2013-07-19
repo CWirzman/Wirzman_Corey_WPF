@@ -7,11 +7,13 @@
 var c = 2;
 // c ++ is represents adding another cat from my first two.
 c ++;
-console.log(c);
-/* //How man kittens were born after third added cat repoduced with both cats.
+
+//How man kittens were born after third added cat repoduced with both cats.
 var x = 6;
+//Taking x * c
 
-x * (c ++);
+x + c;
+//showing what x * c will equal
 
-var amount = x * (c ++);
-console.log(amount); */
+var amount = x + c;
+console.log(amount);
