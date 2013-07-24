@@ -1,16 +1,11 @@
 //Conditionals Worksheet
 // Corey Wirzman
 
-//convert temperatures to degrees Celsius to Fahrenheit
-
-var cels = 0;
-var fahren = 32;
-
-//the temperature is x degrees
-if (fahren < cels){
-	//if the statement is true
-	console.log("The temperature is 32 degrees Fahrenheit");
-}else{
-	//if the statement is 
-	console.log("The temperature is 0 degrees Celsius");
-}
+//Grades student got on four tests
+var gradeOne = 82;
+var gradeTwo = 96;
+var gradeThree = 87;
+var gradeFour = 90;
+//Total of all four grades together 
+var total = (82 + 96 + 87 + 90)/4;
+console.log(total);
