@@ -10,7 +10,7 @@ var spendingAmount = 790;
 
 
 if(spendingAmount > volksParts && biweekPay > 790){
-	console.log();
+	console.log("I can afford a turbo!!");
 }else{
-	console.log();
+	console.log("save them pennies, you won't be turboing it up anytime soon.");
 }
