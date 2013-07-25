@@ -4,3 +4,7 @@
 //Date: July 25, 2013
 
 
+var breakOutsideTemp = 77;
+var breakInCarTemp = 92;
+var breakInsideTemp = 70;
+var temp = true;
