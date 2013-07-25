@@ -9,7 +9,7 @@ var volksParts = 530;
 var spendingAmount = 790;
 
 
-if(){
+if(spendingAmount > volksParts && biweekPay > 790){
 	console.log();
 }else{
 	console.log();
