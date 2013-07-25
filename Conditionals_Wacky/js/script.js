@@ -4,3 +4,13 @@
 //Date: July 25, 2013
 
 
+var biweekPay = 850;
+var volksParts = 530;
+var spendingAmount = 790;
+
+
+if(){
+	console.log();
+}else{
+	console.log();
+}
