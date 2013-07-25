@@ -8,7 +8,7 @@ var averageMpg = 34;
 
 
 if(averageMpg <= estimatedMpg){
-	console.log("");
+	console.log("You will stop more frequently and spend more money on your trip down to Florida.");
 }else{
-	console.log("");
+	console.log("You will spend less money on gas and arrive in Florida quicker!");
 }
