@@ -16,5 +16,4 @@ if(averageMpg >= estimatedMpg){
 	console.log("You will stop more frequently and spend more money on your trip down to Florida.");
 }  */
 
-(averageMpg >= estimatedMpg) ? console.log("You will spend less money on gas and arrive in Florida quicker!")
- : ("You will stop more frequently and spend more money on your trip down to Florida.");
+(averageMpg >= estimatedMpg) ? console.log("You will spend less money on gas and arrive in Florida quicker!") : console.log("You will stop more frequently and spend more money on your trip down to Florida.");
