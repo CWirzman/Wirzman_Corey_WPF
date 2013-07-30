@@ -9,4 +9,6 @@ var total = circRadius(42, 0.5)
 //Function with function name
 function circRadius(diam, half){ //added the parameters
 	var total = diam * half;
+	return total;
 }
+console.log(total);
