@@ -14,7 +14,7 @@ function stingsPerPound(beeStings, vicWeight){
 	var amount = vicWeight/beeStings;
 	return amount;
 }
-
+console.log(amount);
 
 
 
