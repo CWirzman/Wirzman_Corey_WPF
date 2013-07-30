@@ -3,9 +3,10 @@
 
 
 //Stung!
+var amount = stingsPerPound(8.666666667, 182)
 
 function stingsPerPound(){
-
+	
 }
 
 
