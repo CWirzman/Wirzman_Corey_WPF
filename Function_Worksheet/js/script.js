@@ -12,7 +12,7 @@ var amount = stingsPerPound(8.666666667, 182)
 function stingsPerPound(beeStings, vicWeight){
 //Function definition
 	var amount = vicWeight/beeStings;
-
+	return amount;
 }
 
 
