@@ -6,11 +6,12 @@
 
 
 //Function name and Arguments
-var amount = stingsPerPound(8.666666667, 182)
+var amount = stingsPerPound(8.666666667, 1322)
 
 //Function equation for how many bee stings kill
 function stingsPerPound(beeStings, vicWeight){
 //Function definition
+//parameters are being divided
 	var amount = vicWeight/beeStings;
 	return amount;
 }
