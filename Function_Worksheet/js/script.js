@@ -4,7 +4,9 @@
 //Circumference of a circle
 
 
+
 //Function with function name
-function circRadius(){
-	
+function circRadius(diam, half){ //added the parameters
+
 }
+
