@@ -4,6 +4,9 @@
 
 //Stung!
 
+function stingsPerPound(){
+
+}
 
 
 
