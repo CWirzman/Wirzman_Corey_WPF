@@ -8,4 +8,4 @@ var shovelsMade = function(fordged, assembled, scraped){
 	return totalAmount;
 }
 var compShovels = shovelsMade(1000, 882, 198);
-console.log(compShovels);
+console.log("There are " + compShovels + " shovels made in a work week at Ames True Temper.");
