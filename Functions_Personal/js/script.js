@@ -3,3 +3,7 @@
 // Date: August 1, 2013
 
 
+
+function amountOfWood(){
+	
+}
