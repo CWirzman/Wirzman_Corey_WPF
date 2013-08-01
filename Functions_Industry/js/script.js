@@ -5,4 +5,6 @@
 
 var shovelsMade = function(fordged, assembled, scraped){
 	var totalAmount =  (fordged + assembled) * 5 - scraped;
+	return totalAmount;
 }
+var compShovels =
