@@ -3,6 +3,6 @@
 // Date: August 1, 2013
 
 
-var shovelsMade = function(){
-
+var shovelsMade = function(fordged, assembled, scraped){
+	var totalAmount = 
 }
