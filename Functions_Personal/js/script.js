@@ -5,5 +5,7 @@
 
 
 function amountOfWood(){
-	
+	var twoByFours = 26;
+	var twoByTens = 21;
+	var totalPieces =
 }
